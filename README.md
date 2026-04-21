@@ -1,4 +1,5 @@
-Natural Disaster and Safety Measures – Power BI using Python Main Project 
+**Natural Disaster and Safety Measures – Power BI using Python Main Project **
+
 **Project Overview**
 This project focuses on analyzing historical data related to natural disasters such as earthquakes, floods, cyclones, and wildfires to identify patterns, trends, and risk factors. The goal is to use data analytics and basic machine learning techniques to improve disaster preparedness and support decision-making.
 The dataset includes key attributes like location, date, disaster type, intensity, casualties, and economic impact. Using tools such as Python (Pandas, NumPy), SQL, and data visualization libraries (Matplotlib, Seaborn), the data is cleaned, processed, and explored through exploratory data analysis (EDA).
